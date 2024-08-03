@@ -1,16 +1,13 @@
-## Hi there 👋
+## Công thức lượng giác
 
-<!--
-**ctluonggiac/ctluonggiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Công thức lượng giác là một tập hợp các biểu thức toán học liên quan đến các hàm lượng giác như sin, cos, tan, cot và các hàm liên quan khác. Những công thức này đóng vai trò quan trọng trong việc giải quyết các bài toán hình học, toán học ứng dụng và nhiều lĩnh vực khác như vật lý, kỹ thuật và thiên văn học.
 
-Here are some ideas to get you started:
+#congthucluonggiac #tonghopcongthucluonggiac
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://congthucluonggiac.net
+
+https://www.pinterest.com/ctluonggiac/
+
+https://vimeo.com/ctluonggiac
+
+https://www.youtube.com/channel/UCONzJhq95YhUBNnf39e73cQ
